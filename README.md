@@ -55,7 +55,7 @@ python scripts\import_data.py
 python -m streamlit run app.py
 ```
 
-The app opens at **http://localhost:8501**. Stop it with `Ctrl+C`.
+Open **http://localhost:8501** in your browser (`run_dashboard.bat` opens it for you). Stop the app with `Ctrl+C`. The browser is not opened automatically from the command line because `.streamlit/config.toml` sets `headless = true`, which Streamlit Community Cloud needs.
 
 * `scripts\inspect_data.py` profiles the CSV, shows the suggested column mapping and validation results without importing anything.
 * `scripts\import_data.py` imports `comtrade_zambia_china_exports.csv` (or a path you pass: `python scripts\import_data.py data\raw\other.csv --name "China imports"`).
