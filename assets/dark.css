@@ -1,0 +1,117 @@
+.stApp:has(.th-dark) { color-scheme: dark; }
+
+.stApp:has(.th-dark):not(:has(.lp-root)) {
+  --d-bg: #0B1622; --d-side: #0E1B29; --d-panel: #122233; --d-panel-2: #172A3D; --d-line: #263C51;
+  --d-text: #DCE5EE; --d-head: #F2F6F8; --d-muted: #93A4B5; --d-accent: #2DD4C4; --d-soft: #8FB4E6;
+  background: var(--d-bg);
+  color: var(--d-text);
+
+  & header[data-testid="stHeader"] { background: var(--d-bg); }
+  & header[data-testid="stHeader"] :is(span, p, button, svg) { color: var(--d-muted); }
+
+  & section[data-testid="stSidebar"] { background: var(--d-side); border-right: 1px solid var(--d-line); }
+  & section[data-testid="stSidebar"] :is(p, label, span, li) { color: var(--d-text); }
+  & [data-testid="stSidebarNav"] a span, & [data-testid="stSidebarNavLink"] span { color: var(--d-text); }
+  & [data-testid="stSidebarNavLink"]:hover, & [data-testid="stSidebarNavLink"][aria-current="page"] { background: var(--d-panel-2); }
+  & [data-testid="stSidebarNavSeparator"] { border-color: var(--d-line); }
+  & [data-testid="stNavSectionHeader"], & [data-testid="stNavSectionHeader"] * { color: var(--d-muted); }
+
+  & :is(h1, h2, h3, h4, h5, h6), & :is(h1, h2, h3, h4, h5, h6) * { color: var(--d-head); }
+  & [data-testid="stMarkdownContainer"], & [data-testid="stMarkdownContainer"] :is(p, li, strong, em, td, th, span) { color: var(--d-text); }
+  & [data-testid="stCaptionContainer"], & [data-testid="stCaptionContainer"] * { color: var(--d-muted); }
+  & [data-testid="stWidgetLabel"], & [data-testid="stWidgetLabel"] * { color: var(--d-text); }
+  & :is([data-testid="stRadio"], [data-testid="stCheckbox"], [data-testid="stToggle"]) :is(p, label, div) { color: var(--d-text); }
+  & [data-testid="stTooltipIcon"] svg, & [data-testid="stTooltipHoverTarget"] svg { color: var(--d-muted); stroke: var(--d-muted); }
+  & a { color: #6FDDD2; }
+  & hr { border-color: var(--d-line); }
+  & code { background: var(--d-panel-2); color: #F4C9A4; }
+  & pre, & [data-testid="stCode"] pre { background: var(--d-panel) !important; }
+  & [data-testid="stCode"] code { background: transparent; color: var(--d-text); }
+
+  & :is([data-baseweb="select"] > div, [data-baseweb="input"], [data-baseweb="base-input"], [data-baseweb="textarea"], textarea, input) {
+    background-color: var(--d-panel) !important; border-color: var(--d-line) !important; color: var(--d-text) !important; }
+  & [data-baseweb="select"] :is(div, span, input, svg) { color: var(--d-text); }
+  & :is([data-testid="stSelectbox"], [data-testid="stMultiSelect"], [data-testid="stDateInput"], [data-testid="stTextInput"], [data-testid="stNumberInput"]) [role="group"] {
+    background-color: var(--d-panel) !important; border-color: var(--d-line) !important; }
+  & :is([data-testid="stSelectbox"], [data-testid="stMultiSelect"]) :is(input, input::placeholder, span, svg, button) { color: var(--d-text); }
+  & :is([data-testid="stSelectbox"], [data-testid="stMultiSelect"]) input::placeholder { color: var(--d-muted); opacity: 1; }
+  & [data-baseweb="tag"] { background-color: rgba(45, 212, 196, 0.16) !important; }
+  & [data-baseweb="tag"] :is(span, svg) { color: #BFF3EE !important; }
+  & :is([data-testid="stNumberInputContainer"], [data-testid="stTextInputRootElement"], [data-testid="stTextAreaRootElement"], [data-testid="stDateInputField"]) {
+    border-color: var(--d-line) !important; background-color: var(--d-panel); }
+  & [data-testid="stNumberInputContainer"] button { background: var(--d-panel-2); color: var(--d-text); border-color: var(--d-line); }
+  & [data-testid="stSlider"] [data-testid="stSliderTickBarMin"], & [data-testid="stSlider"] [data-testid="stSliderTickBarMax"],
+  & [data-testid="stSliderThumbValue"] { color: var(--d-text); }
+
+  & :is([data-testid="stBaseButton-secondary"], [data-testid="stBaseButton-secondaryFormSubmit"], [data-testid="stBaseButton-tertiary"], [data-testid="stDownloadButton"] button) {
+    background: var(--d-panel); border-color: var(--d-line); color: var(--d-text); }
+  & :is([data-testid="stBaseButton-secondary"], [data-testid="stDownloadButton"] button):hover { border-color: var(--d-accent); color: var(--d-accent); }
+  & :is([data-testid="stBaseButton-secondary"], [data-testid="stDownloadButton"] button) p { color: inherit; }
+  & [data-testid="stPageLink"] a span, & [data-testid="stPageLink"] a p { color: var(--d-text); }
+  & [data-testid="stPageLink"] a:hover { background: var(--d-panel-2); }
+
+  & [data-baseweb="tab-list"] { border-bottom-color: var(--d-line); }
+  & [data-baseweb="tab-list"] button[role="tab"] p { color: var(--d-muted); }
+  & [data-baseweb="tab-list"] button[role="tab"][aria-selected="true"] p { color: var(--d-head); }
+  & [data-baseweb="tab-border"] { background-color: var(--d-line); }
+
+  & [data-testid="stExpander"] details { background: var(--d-panel); border-color: var(--d-line); }
+  & [data-testid="stExpander"] summary:hover * { color: var(--d-accent); }
+  & [data-testid="stVerticalBlockBorderWrapper"]:has(> div > [data-testid="stVerticalBlock"]) { border-color: var(--d-line); }
+  & [data-testid="stForm"] { border-color: var(--d-line); }
+
+  & [data-testid="stAlertContainer"] { background-color: var(--d-panel); border: 1px solid var(--d-line); }
+  & [data-testid="stAlertContainer"]:has([data-testid="stAlertContentInfo"]) { background-color: rgba(59, 130, 246, 0.12); border-color: rgba(59, 130, 246, 0.35); }
+  & [data-testid="stAlertContainer"]:has([data-testid="stAlertContentSuccess"]) { background-color: rgba(45, 212, 196, 0.10); border-color: rgba(45, 212, 196, 0.35); }
+  & [data-testid="stAlertContainer"]:has([data-testid="stAlertContentWarning"]) { background-color: rgba(234, 179, 8, 0.12); border-color: rgba(234, 179, 8, 0.4); }
+  & [data-testid="stAlertContainer"]:has([data-testid="stAlertContentError"]) { background-color: rgba(239, 68, 68, 0.13); border-color: rgba(239, 68, 68, 0.4); }
+  & [data-testid="stAlertContainer"] :is(p, li, span, strong) { color: var(--d-text); }
+
+  & [data-testid="stFileUploaderDropzone"] { background: var(--d-panel); border-color: var(--d-line); }
+  & [data-testid="stFileUploaderDropzone"] :is(span, small, svg) { color: var(--d-muted); }
+  & [data-testid="stFileUploaderFile"] * { color: var(--d-text); }
+
+  & :is([data-testid="stDataFrame"], [data-testid="stDataEditor"]) { filter: invert(0.9) hue-rotate(180deg) saturate(1.1); }
+  & [data-testid="stTable"] table, & [data-testid="stTable"] :is(th, td) { color: var(--d-text); border-color: var(--d-line); background: transparent; }
+  & [data-testid="stJson"] { background: var(--d-panel); }
+  & [data-testid="stJson"] * { filter: none; }
+  & [data-testid="stPlotlyChart"] .modebar-btn path { fill: var(--d-muted) !important; }
+
+  & .page-head { border-bottom-color: var(--d-line); }
+  & .page-head h1 { color: var(--d-head); }
+  & .page-head p { color: var(--d-muted); }
+  & .page-head .rq { background: rgba(45, 212, 196, 0.14); color: #7FE8DE; }
+  & .scope { background: var(--d-panel); border-left-color: var(--d-accent); color: var(--d-text); }
+  & .scope b { color: var(--d-head); }
+  & div[data-testid="stMetric"] { background: var(--d-panel); border-color: var(--d-line); border-top-color: var(--d-soft); box-shadow: none; }
+  & div[data-testid="stMetric"] label p { color: var(--d-muted); }
+  & div[data-testid="stMetricValue"], & div[data-testid="stMetricValue"] * { color: var(--d-head); }
+  & .brand { background: linear-gradient(135deg, #13315C, #0E4A57); }
+  & .brand * { color: #FFFFFF; }
+  & .sb-head { color: var(--d-muted); }
+  & .obs { background: var(--d-panel); border-color: var(--d-line); }
+  & .obs li { color: var(--d-text); }
+  & .empty { background: var(--d-panel); border-color: var(--d-line); }
+  & .empty h3 { color: var(--d-head); }
+  & .empty p { color: var(--d-muted); }
+  & .formula { background: var(--d-panel-2); color: var(--d-text); }
+}
+
+.stApp:has(.th-dark) .st-key-sb_theme button { width: 100%; }
+.stApp:has(.th-light) .st-key-sb_theme button { width: 100%; }
+
+body:has(.th-dark) :is(div[data-baseweb="popover"], div[data-baseweb="menu"]) :is(ul, [role="listbox"], [role="option"], li) {
+  background-color: #122233; color: #DCE5EE; }
+body:has(.th-dark) div[data-baseweb="popover"] [role="option"]:hover,
+body:has(.th-dark) div[data-baseweb="popover"] [aria-selected="true"][role="option"] { background-color: #1D344A; }
+body:has(.th-dark) div[data-baseweb="popover"] :is(span, div, p) { color: #DCE5EE; }
+body:has(.th-dark) div[data-baseweb="tooltip"] > div, body:has(.th-dark) [data-testid="stTooltipContent"] { background-color: #16293C; color: #DCE5EE; }
+body:has(.th-dark) div[role="dialog"] { background-color: #122233; color: #DCE5EE; }
+body:has(.th-dark) div[role="dialog"] :is(p, span, h1, h2, h3, label, div) { color: #DCE5EE; }
+body:has(.th-dark) [data-testid="stToast"] { background-color: #16293C; color: #DCE5EE; }
+body:has(.th-dark) div[data-baseweb="calendar"], body:has(.th-dark) div[data-baseweb="calendar"] * { background-color: #122233; color: #DCE5EE; }
+body:has(.th-dark) div[data-baseweb="popover"] > div { background-color: #122233; border: 1px solid #263C51; }
+body:has(.th-dark) :is(.react-aria-Popover, .react-aria-ListBox, [role="listbox"]) { background-color: #122233 !important; border-color: #263C51 !important; color: #DCE5EE; }
+body:has(.th-dark) :is(.react-aria-ListBoxItem, [role="option"]) { color: #DCE5EE !important; }
+body:has(.th-dark) :is(.react-aria-ListBoxItem, [role="option"]):is([data-focused], [data-hovered], :hover) { background-color: #1D344A !important; }
+body:has(.th-dark) :is(.react-aria-ListBoxItem, [role="option"])[data-selected] { background-color: #1A3A44 !important; }

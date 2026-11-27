@@ -1,0 +1,52 @@
+:root {
+  --navy: #13315C;
+  --navy-dark: #0B2545;
+  --teal: #1F9E9A;
+  --gray-50: #F7F9FB;
+  --gray-100: #F3F6F9;
+  --gray-200: #E6EBF1;
+  --gray-400: #A0AEC0;
+  --text: #1A2B42;
+  --muted: #5C6B7F;
+}
+
+.block-container { padding-top: 2.2rem; padding-bottom: 3rem; max-width: 1400px; }
+
+.page-head { border-bottom: 2px solid var(--gray-200); margin-bottom: 0.9rem; padding-bottom: 0.6rem; }
+.page-head h1 { color: var(--navy); font-size: 1.75rem; font-weight: 700; margin: 0 0 0.2rem 0; padding: 0; letter-spacing: -0.01em; }
+.page-head p { color: var(--muted); margin: 0; font-size: 0.95rem; }
+.page-head .rq { display: inline-block; margin-left: 0.4rem; padding: 0.05rem 0.55rem; border-radius: 999px; background: rgba(31,158,154,0.12);
+  color: #11706D; font-size: 0.75rem; font-weight: 600; vertical-align: middle; }
+
+.scope { background: var(--gray-100); border-left: 4px solid var(--teal); padding: 0.55rem 0.9rem; border-radius: 4px; font-size: 0.82rem;
+  color: var(--text); margin-bottom: 1rem; line-height: 1.5; }
+
+div[data-testid="stMetric"] { background: #FFFFFF; border: 1px solid var(--gray-200); border-top: 3px solid var(--navy); border-radius: 6px;
+  padding: 0.75rem 0.9rem; box-shadow: 0 1px 2px rgba(19,49,92,0.04); }
+div[data-testid="stMetric"] label p { white-space: normal; line-height: 1.25; color: var(--muted); font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.03em; }
+div[data-testid="stMetricValue"] { color: var(--navy); font-size: 1.45rem; font-weight: 700; }
+
+section[data-testid="stSidebar"] { background: var(--gray-50); border-right: 1px solid var(--gray-200); }
+.brand { background: var(--navy); color: #FFFFFF; padding: 0.85rem 0.9rem; border-radius: 6px; margin-bottom: 0.8rem; }
+.brand-title { font-weight: 700; font-size: 1.02rem; line-height: 1.25; }
+.brand-sub { font-size: 0.72rem; opacity: 0.8; margin-top: 0.25rem; }
+.sb-head { font-size: 0.72rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; margin: 0.4rem 0 0.2rem; }
+
+.obs { background: #FFFFFF; border: 1px solid var(--gray-200); border-radius: 6px; padding: 0.8rem 1rem; }
+.obs li { margin-bottom: 0.35rem; color: var(--text); font-size: 0.92rem; }
+
+.empty { text-align: center; padding: 3rem 1rem; border: 1px dashed var(--gray-400); border-radius: 8px; background: var(--gray-50); }
+.empty h3 { color: var(--navy); }
+.empty p { color: var(--muted); }
+
+.formula { background: var(--gray-100); border-radius: 4px; padding: 0.5rem 0.8rem; font-family: Consolas, "Courier New", monospace; font-size: 0.85rem; }
+
+h2, h3 { color: var(--navy); }
+div[data-testid="stExpander"] details { border-color: var(--gray-200); }
+
+@media (max-width: 768px) {
+  .page-head h1 { font-size: 1.35rem; }
+  div[data-testid="stMetricValue"] { font-size: 1.15rem; }
+  .block-container { padding-left: 0.8rem; padding-right: 0.8rem; }
+}
+

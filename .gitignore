@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# Local database, backups and logs
+database/*.db
+database/*.db-journal
+database/backups/
+logs/*.log*
+
+# Generated data (originals in data/raw are kept)
+data/raw/uploads/
+data/processed/*
+!data/processed/.gitkeep
+data/cache/*
+!data/cache/.gitkeep
+
+# Editors / OS
+.vscode/settings.json
+.idea/
+.DS_Store
+Thumbs.db

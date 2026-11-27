@@ -1,0 +1,217 @@
+typeCode,freqCode,refYear,refMonth,period,reporterCode,reporterISO,reporterDesc,flowCode,flowDesc,partnerCode,partnerISO,partnerDesc,classificationCode,cmdCode,cmdDesc,aggrLevel,qtyUnitAbbr,netWgt,primaryValue,valuationBasis,dataSource
+C,A,2015,52,2015,156,CHN,China,M,Import,894,ZMB,Zambia,H5,120740,Sesamum seeds,6,kg,1175989.0,10867414.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,156,CHN,China,M,Import,894,ZMB,Zambia,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,5290770.0,14572617.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,156,CHN,China,M,Import,894,ZMB,Zambia,H5,260300,Copper ores and concentrates,6,kg,366095594.0,888038740.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,156,CHN,China,M,Import,894,ZMB,Zambia,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,13481252.0,43890403.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,156,CHN,China,M,Import,894,ZMB,Zambia,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,4934132.0,21632093.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,156,CHN,China,M,Import,894,ZMB,Zambia,H5,520100,"Cotton, not carded or combed",6,kg,3244805.0,22280948.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,156,CHN,China,M,Import,894,ZMB,Zambia,H5,710310,"Precious and semi-precious stones, unworked",6,kg,1626441.0,12578538.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,350313370.0,800890010.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,374783772.0,2546762099.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,156,CHN,China,M,Import,894,ZMB,Zambia,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,66431042.0,165661901.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,156,CHN,China,M,Import,894,ZMB,Zambia,H5,TOTAL,All Commodities,0,kg,,4593309485.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,156,CHN,China,M,Import,894,ZMB,Zambia,H5,120740,Sesamum seeds,6,kg,2881690.0,23341077.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,156,CHN,China,M,Import,894,ZMB,Zambia,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,2846171.0,19153545.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,156,CHN,China,M,Import,894,ZMB,Zambia,H5,260300,Copper ores and concentrates,6,kg,216608517.0,1217299466.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,156,CHN,China,M,Import,894,ZMB,Zambia,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,24507357.0,64360689.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,156,CHN,China,M,Import,894,ZMB,Zambia,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,7103260.0,10362271.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,156,CHN,China,M,Import,894,ZMB,Zambia,H5,520100,"Cotton, not carded or combed",6,kg,2525325.0,19288916.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,156,CHN,China,M,Import,894,ZMB,Zambia,H5,710310,"Precious and semi-precious stones, unworked",6,kg,2117658.0,5519812.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,130790862.0,806063676.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,755065331.0,4701570935.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,156,CHN,China,M,Import,894,ZMB,Zambia,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,24391259.0,99841340.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,156,CHN,China,M,Import,894,ZMB,Zambia,H5,TOTAL,All Commodities,0,kg,,7162047824.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,156,CHN,China,M,Import,894,ZMB,Zambia,H5,120740,Sesamum seeds,6,kg,4252361.0,16527757.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,156,CHN,China,M,Import,894,ZMB,Zambia,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,2328461.0,9691365.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,156,CHN,China,M,Import,894,ZMB,Zambia,H5,260300,Copper ores and concentrates,6,kg,263170074.0,1447576367.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,156,CHN,China,M,Import,894,ZMB,Zambia,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,5208826.0,33535613.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,156,CHN,China,M,Import,894,ZMB,Zambia,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,5431492.0,29286865.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,156,CHN,China,M,Import,894,ZMB,Zambia,H5,520100,"Cotton, not carded or combed",6,kg,895924.0,7314291.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,156,CHN,China,M,Import,894,ZMB,Zambia,H5,710310,"Precious and semi-precious stones, unworked",6,kg,903772.0,5167828.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,86949538.0,460625855.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,851066403.0,3681236430.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,156,CHN,China,M,Import,894,ZMB,Zambia,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,56981933.0,218582919.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,156,CHN,China,M,Import,894,ZMB,Zambia,H5,TOTAL,All Commodities,0,kg,,5989857054.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,156,CHN,China,M,Import,894,ZMB,Zambia,H5,120740,Sesamum seeds,6,kg,2563613.0,7064175.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,156,CHN,China,M,Import,894,ZMB,Zambia,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,2042658.0,12636389.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,156,CHN,China,M,Import,894,ZMB,Zambia,H5,260300,Copper ores and concentrates,6,kg,200964970.0,1213134931.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,156,CHN,China,M,Import,894,ZMB,Zambia,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,5587364.0,42028109.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,156,CHN,China,M,Import,894,ZMB,Zambia,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,4944006.0,16423021.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,156,CHN,China,M,Import,894,ZMB,Zambia,H5,520100,"Cotton, not carded or combed",6,kg,14509715.0,28337473.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,156,CHN,China,M,Import,894,ZMB,Zambia,H5,710310,"Precious and semi-precious stones, unworked",6,kg,1074503.0,10069100.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,214665943.0,1153342884.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,382940314.0,3179352340.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,156,CHN,China,M,Import,894,ZMB,Zambia,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,84998824.0,183424863.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,156,CHN,China,M,Import,894,ZMB,Zambia,H5,TOTAL,All Commodities,0,kg,,5968268931.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,156,CHN,China,M,Import,894,ZMB,Zambia,H5,120740,Sesamum seeds,6,kg,1741763.0,17324200.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,156,CHN,China,M,Import,894,ZMB,Zambia,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,3085170.0,12883257.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,156,CHN,China,M,Import,894,ZMB,Zambia,H5,260300,Copper ores and concentrates,6,kg,128745647.0,1144171287.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,156,CHN,China,M,Import,894,ZMB,Zambia,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,6935493.0,42221539.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,156,CHN,China,M,Import,894,ZMB,Zambia,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,5909401.0,32526332.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,156,CHN,China,M,Import,894,ZMB,Zambia,H5,520100,"Cotton, not carded or combed",6,kg,15702231.0,45205965.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,156,CHN,China,M,Import,894,ZMB,Zambia,H5,710310,"Precious and semi-precious stones, unworked",6,kg,2011891.0,13175578.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,438211422.0,1033939599.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,460522183.0,3067488530.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,156,CHN,China,M,Import,894,ZMB,Zambia,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,13213452.0,120474309.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,156,CHN,China,M,Import,894,ZMB,Zambia,H5,TOTAL,All Commodities,0,kg,,5743691157.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,156,CHN,China,M,Import,894,ZMB,Zambia,H5,120740,Sesamum seeds,6,kg,926853.0,7564851.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,156,CHN,China,M,Import,894,ZMB,Zambia,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,4754808.0,21291763.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,156,CHN,China,M,Import,894,ZMB,Zambia,H5,260300,Copper ores and concentrates,6,kg,211654955.0,1352894160.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,156,CHN,China,M,Import,894,ZMB,Zambia,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,19848831.0,36227235.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,156,CHN,China,M,Import,894,ZMB,Zambia,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,13876549.0,29806765.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,156,CHN,China,M,Import,894,ZMB,Zambia,H5,520100,"Cotton, not carded or combed",6,kg,1748245.0,15826606.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,136601752.0,646853285.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,487118991.0,4264755111.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,156,CHN,China,M,Import,894,ZMB,Zambia,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,28031222.0,191391862.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,156,CHN,China,M,Import,894,ZMB,Zambia,H5,TOTAL,All Commodities,0,kg,,6828382613.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,156,CHN,China,M,Import,894,ZMB,Zambia,H5,120740,Sesamum seeds,6,kg,3334254.0,7517283.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,156,CHN,China,M,Import,894,ZMB,Zambia,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,4434506.0,27027859.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,156,CHN,China,M,Import,894,ZMB,Zambia,H5,260300,Copper ores and concentrates,6,kg,216460933.0,1172498722.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,156,CHN,China,M,Import,894,ZMB,Zambia,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,5157877.0,31870951.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,156,CHN,China,M,Import,894,ZMB,Zambia,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,3365634.0,28665129.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,156,CHN,China,M,Import,894,ZMB,Zambia,H5,520100,"Cotton, not carded or combed",6,kg,3965330.0,41504033.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,83713573.0,754440913.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,701221461.0,3595789922.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,156,CHN,China,M,Import,894,ZMB,Zambia,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,22487664.0,222292117.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,156,CHN,China,M,Import,894,ZMB,Zambia,H5,TOTAL,All Commodities,0,kg,,6076659523.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,156,CHN,China,M,Import,894,ZMB,Zambia,H5,120740,Sesamum seeds,6,kg,1762787.0,9601964.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,156,CHN,China,M,Import,894,ZMB,Zambia,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,2043641.0,11538905.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,156,CHN,China,M,Import,894,ZMB,Zambia,H5,260300,Copper ores and concentrates,6,kg,190603820.0,1345311156.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,156,CHN,China,M,Import,894,ZMB,Zambia,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,4862322.0,31609751.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,156,CHN,China,M,Import,894,ZMB,Zambia,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,3806503.0,19822301.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,156,CHN,China,M,Import,894,ZMB,Zambia,H5,520100,"Cotton, not carded or combed",6,kg,3815776.0,18632456.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,156,CHN,China,M,Import,894,ZMB,Zambia,H5,710310,"Precious and semi-precious stones, unworked",6,kg,1368988.0,13454915.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,220883943.0,1382032607.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,826407828.0,4095543913.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,156,CHN,China,M,Import,894,ZMB,Zambia,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,109385085.0,353134409.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,156,CHN,China,M,Import,894,ZMB,Zambia,H5,TOTAL,All Commodities,0,kg,,7421409560.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,156,CHN,China,M,Import,894,ZMB,Zambia,H5,120740,Sesamum seeds,6,kg,2167132.0,14201277.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,156,CHN,China,M,Import,894,ZMB,Zambia,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,4553268.0,16605611.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,156,CHN,China,M,Import,894,ZMB,Zambia,H5,260300,Copper ores and concentrates,6,kg,339650438.0,1752801248.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,156,CHN,China,M,Import,894,ZMB,Zambia,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,2961792.0,20971682.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,156,CHN,China,M,Import,894,ZMB,Zambia,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,2769931.0,10625845.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,156,CHN,China,M,Import,894,ZMB,Zambia,H5,520100,"Cotton, not carded or combed",6,kg,2587176.0,24831581.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,156,CHN,China,M,Import,894,ZMB,Zambia,H5,710310,"Precious and semi-precious stones, unworked",6,kg,828745.0,8412200.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,155136645.0,816897950.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,1728266152.0,4287739822.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,156,CHN,China,M,Import,894,ZMB,Zambia,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,13625834.0,124781487.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,156,CHN,China,M,Import,894,ZMB,Zambia,H5,TOTAL,All Commodities,0,kg,,7294663478.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,156,CHN,China,M,Import,894,ZMB,Zambia,H5,120740,Sesamum seeds,6,kg,2483313.0,16163785.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,156,CHN,China,M,Import,894,ZMB,Zambia,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,2653759.0,30399898.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,156,CHN,China,M,Import,894,ZMB,Zambia,H5,260300,Copper ores and concentrates,6,kg,1138122171.0,1734337207.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,156,CHN,China,M,Import,894,ZMB,Zambia,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,46050507.0,115026743.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,156,CHN,China,M,Import,894,ZMB,Zambia,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,3001828.0,13770546.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,156,CHN,China,M,Import,894,ZMB,Zambia,H5,520100,"Cotton, not carded or combed",6,kg,1471930.0,14615825.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,156,CHN,China,M,Import,894,ZMB,Zambia,H5,710310,"Precious and semi-precious stones, unworked",6,kg,5746930.0,10113576.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,172445126.0,1176564535.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,156,CHN,China,M,Import,894,ZMB,Zambia,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,1080680336.0,4189968203.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,156,CHN,China,M,Import,894,ZMB,Zambia,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,69529956.0,167089944.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,156,CHN,China,M,Import,894,ZMB,Zambia,H5,TOTAL,All Commodities,0,kg,,7700771070.0,CIF,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,894,ZMB,Zambia,X,Export,156,CHN,China,H5,120740,Sesamum seeds,6,kg,1128984.0,9727813.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,894,ZMB,Zambia,X,Export,156,CHN,China,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,5410850.0,13558019.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,894,ZMB,Zambia,X,Export,156,CHN,China,H5,260300,Copper ores and concentrates,6,kg,349473837.0,771054650.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,894,ZMB,Zambia,X,Export,156,CHN,China,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,13083355.0,39228052.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,894,ZMB,Zambia,X,Export,156,CHN,China,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,5111176.0,18581174.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,894,ZMB,Zambia,X,Export,156,CHN,China,H5,520100,"Cotton, not carded or combed",6,kg,3402632.0,21851761.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,894,ZMB,Zambia,X,Export,156,CHN,China,H5,710310,"Precious and semi-precious stones, unworked",6,kg,1664639.0,12017013.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,336755512.0,748584677.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,388788034.0,2241580337.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,894,ZMB,Zambia,X,Export,156,CHN,China,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,63777809.0,147202826.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2015,52,2015,894,ZMB,Zambia,X,Export,156,CHN,China,H5,TOTAL,All Commodities,0,kg,,4110433293.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,894,ZMB,Zambia,X,Export,156,CHN,China,H5,120740,Sesamum seeds,6,kg,2838380.0,22321600.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,894,ZMB,Zambia,X,Export,156,CHN,China,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,2871495.0,17974749.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,894,ZMB,Zambia,X,Export,156,CHN,China,H5,260300,Copper ores and concentrates,6,kg,219443773.0,1070423583.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,894,ZMB,Zambia,X,Export,156,CHN,China,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,23502479.0,57067628.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,894,ZMB,Zambia,X,Export,156,CHN,China,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,7039103.0,13376861.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,894,ZMB,Zambia,X,Export,156,CHN,China,H5,520100,"Cotton, not carded or combed",6,kg,2593121.0,19477230.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,894,ZMB,Zambia,X,Export,156,CHN,China,H5,710310,"Precious and semi-precious stones, unworked",6,kg,2029161.0,5292814.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,135159587.0,789892466.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,735572738.0,4221651134.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,894,ZMB,Zambia,X,Export,156,CHN,China,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,23612541.0,101106945.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2016,52,2016,894,ZMB,Zambia,X,Export,156,CHN,China,H5,TOTAL,All Commodities,0,kg,,6503256139.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,894,ZMB,Zambia,X,Export,156,CHN,China,H5,120740,Sesamum seeds,6,kg,4154769.0,15211303.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,894,ZMB,Zambia,X,Export,156,CHN,China,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,2441743.0,9468610.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,894,ZMB,Zambia,X,Export,156,CHN,China,H5,260300,Copper ores and concentrates,6,kg,270549621.0,1305566005.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,894,ZMB,Zambia,X,Export,156,CHN,China,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,4981842.0,32239899.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,894,ZMB,Zambia,X,Export,156,CHN,China,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,5235171.0,27662363.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,894,ZMB,Zambia,X,Export,156,CHN,China,H5,710310,"Precious and semi-precious stones, unworked",6,kg,866002.0,4890702.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,85856509.0,407019762.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,892962616.0,3375064485.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,894,ZMB,Zambia,X,Export,156,CHN,China,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,56896264.0,209485432.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2017,52,2017,894,ZMB,Zambia,X,Export,156,CHN,China,H5,TOTAL,All Commodities,0,kg,,5442208214.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,894,ZMB,Zambia,X,Export,156,CHN,China,H5,120740,Sesamum seeds,6,kg,2534622.0,6313164.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,894,ZMB,Zambia,X,Export,156,CHN,China,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,2029310.0,11756677.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,894,ZMB,Zambia,X,Export,156,CHN,China,H5,260300,Copper ores and concentrates,6,kg,195908804.0,1221977833.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,894,ZMB,Zambia,X,Export,156,CHN,China,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,5816598.0,36381735.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,894,ZMB,Zambia,X,Export,156,CHN,China,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,5071094.0,16610806.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,894,ZMB,Zambia,X,Export,156,CHN,China,H5,710310,"Precious and semi-precious stones, unworked",6,kg,1051604.0,9358996.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,224978645.0,1039076362.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,393407329.0,3108123673.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,894,ZMB,Zambia,X,Export,156,CHN,China,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,85554095.0,157148298.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2018,52,2018,894,ZMB,Zambia,X,Export,156,CHN,China,H5,TOTAL,All Commodities,0,kg,,5697979026.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,894,ZMB,Zambia,X,Export,156,CHN,China,H5,120740,Sesamum seeds,6,kg,1807294.0,15397330.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,894,ZMB,Zambia,X,Export,156,CHN,China,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,2998970.0,11610830.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,894,ZMB,Zambia,X,Export,156,CHN,China,H5,260300,Copper ores and concentrates,6,kg,132800872.0,974476359.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,894,ZMB,Zambia,X,Export,156,CHN,China,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,6647635.0,39688505.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,894,ZMB,Zambia,X,Export,156,CHN,China,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,6154554.0,33407826.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,894,ZMB,Zambia,X,Export,156,CHN,China,H5,520100,"Cotton, not carded or combed",6,kg,15342269.0,40873299.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,894,ZMB,Zambia,X,Export,156,CHN,China,H5,710310,"Precious and semi-precious stones, unworked",6,kg,2090945.0,13127064.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,434404106.0,988496212.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,457910620.0,2960105441.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,894,ZMB,Zambia,X,Export,156,CHN,China,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,12713253.0,104006408.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2019,52,2019,894,ZMB,Zambia,X,Export,156,CHN,China,H5,TOTAL,All Commodities,0,kg,,5314618622.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,894,ZMB,Zambia,X,Export,156,CHN,China,H5,120740,Sesamum seeds,6,kg,900284.0,6634805.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,894,ZMB,Zambia,X,Export,156,CHN,China,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,4748759.0,19968199.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,894,ZMB,Zambia,X,Export,156,CHN,China,H5,260300,Copper ores and concentrates,6,kg,206598212.0,1368272512.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,894,ZMB,Zambia,X,Export,156,CHN,China,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,20656191.0,33747586.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,894,ZMB,Zambia,X,Export,156,CHN,China,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,13415621.0,30095915.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,894,ZMB,Zambia,X,Export,156,CHN,China,H5,520100,"Cotton, not carded or combed",6,kg,1728960.0,15303949.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,894,ZMB,Zambia,X,Export,156,CHN,China,H5,710310,"Precious and semi-precious stones, unworked",6,kg,2545912.0,19579329.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,135371019.0,555227422.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,503900234.0,3832238317.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,894,ZMB,Zambia,X,Export,156,CHN,China,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,28389907.0,183468621.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2020,52,2020,894,ZMB,Zambia,X,Export,156,CHN,China,H5,TOTAL,All Commodities,0,kg,,6154974296.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,894,ZMB,Zambia,X,Export,156,CHN,China,H5,120740,Sesamum seeds,6,kg,3295966.0,7293542.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,894,ZMB,Zambia,X,Export,156,CHN,China,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,4425533.0,23354629.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,894,ZMB,Zambia,X,Export,156,CHN,China,H5,260300,Copper ores and concentrates,6,kg,223398084.0,1121831139.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,894,ZMB,Zambia,X,Export,156,CHN,China,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,5103769.0,27972595.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,894,ZMB,Zambia,X,Export,156,CHN,China,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,3318353.0,24376889.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,894,ZMB,Zambia,X,Export,156,CHN,China,H5,520100,"Cotton, not carded or combed",6,kg,4099326.0,27964931.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,894,ZMB,Zambia,X,Export,156,CHN,China,H5,710310,"Precious and semi-precious stones, unworked",6,kg,1270616.0,4783176.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,87358793.0,643879225.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,725806578.0,3602961357.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,894,ZMB,Zambia,X,Export,156,CHN,China,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,23085650.0,196830529.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2021,52,2021,894,ZMB,Zambia,X,Export,156,CHN,China,H5,TOTAL,All Commodities,0,kg,,5766337233.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,894,ZMB,Zambia,X,Export,156,CHN,China,H5,120740,Sesamum seeds,6,kg,1758806.0,8785042.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,894,ZMB,Zambia,X,Export,156,CHN,China,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,2125283.0,11064354.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,894,ZMB,Zambia,X,Export,156,CHN,China,H5,260300,Copper ores and concentrates,6,kg,191809305.0,1251288133.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,894,ZMB,Zambia,X,Export,156,CHN,China,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,4689970.0,29966485.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,894,ZMB,Zambia,X,Export,156,CHN,China,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,3675092.0,19686260.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,894,ZMB,Zambia,X,Export,156,CHN,China,H5,520100,"Cotton, not carded or combed",6,kg,3710371.0,18326285.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,894,ZMB,Zambia,X,Export,156,CHN,China,H5,710310,"Precious and semi-precious stones, unworked",6,kg,1318972.0,11841418.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,221471077.0,1281865819.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,836358722.0,4053138276.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,894,ZMB,Zambia,X,Export,156,CHN,China,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,108308683.0,308085383.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2022,52,2022,894,ZMB,Zambia,X,Export,156,CHN,China,H5,TOTAL,All Commodities,0,kg,,7239462485.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,894,ZMB,Zambia,X,Export,156,CHN,China,H5,120740,Sesamum seeds,6,kg,2077541.0,12458912.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,894,ZMB,Zambia,X,Export,156,CHN,China,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,4707196.0,18856911.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,894,ZMB,Zambia,X,Export,156,CHN,China,H5,260300,Copper ores and concentrates,6,kg,346995355.0,1528892015.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,894,ZMB,Zambia,X,Export,156,CHN,China,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,2870908.0,20369401.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,894,ZMB,Zambia,X,Export,156,CHN,China,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,2873442.0,10052663.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,894,ZMB,Zambia,X,Export,156,CHN,China,H5,520100,"Cotton, not carded or combed",6,kg,2639614.0,22687962.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,894,ZMB,Zambia,X,Export,156,CHN,China,H5,710310,"Precious and semi-precious stones, unworked",6,kg,815238.0,7331664.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,162931071.0,780738962.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,1796906936.0,3876601014.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,894,ZMB,Zambia,X,Export,156,CHN,China,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,13624824.0,119744468.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2023,52,2023,894,ZMB,Zambia,X,Export,156,CHN,China,H5,TOTAL,All Commodities,0,kg,,6651557607.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,894,ZMB,Zambia,X,Export,156,CHN,China,H5,120740,Sesamum seeds,6,kg,2503691.0,16108682.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,894,ZMB,Zambia,X,Export,156,CHN,China,H5,240120,"Tobacco, partly or wholly stemmed or stripped",6,kg,2688097.0,21300774.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,894,ZMB,Zambia,X,Export,156,CHN,China,H5,260300,Copper ores and concentrates,6,kg,1106377504.0,1720657128.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,894,ZMB,Zambia,X,Export,156,CHN,China,H5,261690,Precious metal ores and concentrates (excl. silver),6,kg,44602426.0,115801248.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,894,ZMB,Zambia,X,Export,156,CHN,China,H5,440799,"Wood sawn or chipped lengthwise, n.e.c.",6,kg,3042478.0,12949815.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,894,ZMB,Zambia,X,Export,156,CHN,China,H5,520100,"Cotton, not carded or combed",6,kg,1525563.0,13050366.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,894,ZMB,Zambia,X,Export,156,CHN,China,H5,710310,"Precious and semi-precious stones, unworked",6,kg,5899838.0,10132949.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740200,Unrefined copper; copper anodes for electrolytic refining,6,kg,179470018.0,1014951604.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,894,ZMB,Zambia,X,Export,156,CHN,China,H5,740311,Refined copper; cathodes and sections of cathodes,6,kg,1032249622.0,3606705688.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,894,ZMB,Zambia,X,Export,156,CHN,China,H5,810520,Cobalt mattes and other intermediate products; unwrought cobalt,6,kg,68316258.0,170016392.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
+C,A,2024,52,2024,894,ZMB,Zambia,X,Export,156,CHN,China,H5,TOTAL,All Commodities,0,kg,,6880469178.0,FOB,SYNTHETIC demonstration data - NOT real trade statistics
