@@ -20,5 +20,5 @@ if not exist ".venv\Scripts\python.exe" (
 )
 
 call ".venv\Scripts\python.exe" scripts\init_db.py
-call ".venv\Scripts\python.exe" -m streamlit run app.py
+call ".venv\Scripts\python.exe" -m streamlit run app.py --server.headless false
 pause
